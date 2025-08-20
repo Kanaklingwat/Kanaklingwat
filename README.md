@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Kanaklingwat
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python, Linux and SQL
-- 💞️ I’m looking to collaborate on projects related to Cyber Security
-- 📫 How to reach me - Email Id - kanaklingwat2904@gmail.com 
-- 😄 Pronouns: she/her
+
   
 
 <!---
